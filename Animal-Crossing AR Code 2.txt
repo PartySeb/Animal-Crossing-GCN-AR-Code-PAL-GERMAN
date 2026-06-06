@@ -1,0 +1,151 @@
+16:9 Aspect Ratio v2 (Widescreen) [Ralf]
+32ZQ-TRRV-YBEQ4
+6Y8Z-8RX9-GF2FB
+YJGY-0KZP-RRGW0
+TPR1-4D69-MNW2V
+C6QH-V73N-5VAQX
+C4Z7-98MH-ETDZ9
+XB5U-CETB-HVVZY
+0UGN-FE6G-NBY08
+Q3KR-U41D-T1HB0
+E9FZ-A3QA-YCERP
+
+Incl. Screen Fader Fix
+
+Insects: Purely Random Encounters [Ralf]
+JAK0-VZ82-BJVB9
+KEKW-Z95P-PE5J5
+NX7D-5CH4-HDXX2
+3TQU-ZCB2-YBGDH
+N0UW-MD6J-RXM6R
+GA81-ATUN-U5N6H
+TB5Q-2W17-JZB9M
+7T9A-H6MD-FXAH7
+90D0-R154-896VR
+9UCR-P2H7-VJH9F
+F1QM-RV00-ENJGC
+E9FZ-A3QA-YCERP
+
+Fishes: Purely Random Encounters [Ralf]
+7YJH-ARK7-8D9NA
+KEKW-Z95P-PE5J5
+KXKA-R8TD-024AZ
+6EWW-DHT9-FZKH1
+KUZU-1U7R-HJ2RA
+HT43-WNE4-MX3C0
+FPZT-KH36-9X9XA
+DX9Z-YXPR-0X0FN
+0ADV-ANHB-HMRX2
+32U8-VPYX-DBMUD
+R150-NBJ3-MDBRN
+E9FZ-A3QA-YCERP
+
+
+Insect Encounter Modifier [Ralf]
+04ED2968 390000xx
+
+xx = Insect ID
+
+
+Insect IDs
+
+00 - Schmetterling
+01 - Zitronenfalter
+02 - Schwalbenschwanz
+03 - Bläuling
+04 - Mannzikade
+05 - Zikade
+06 - Abendzikade
+07 - Erdzikade
+08 - Biene
+09 - Libelle
+0A - Feuerlibelle
+0B - Königslibelle
+0C - Prachtlibelle
+0D - Heuschrecke
+0E - Wanderheuschrecke
+0F - Grille
+
+10 - Grashüpfer
+11 - Singzikade
+12 - Laubheuschrecke
+13 - Wanze
+14 - Nashornkäfer
+15 - Hirschkäfer
+16 - Prachtkäfer
+17 - Fichtenbock
+18 - Marienkäfer
+19 - Siebenpunkt
+1A - Gottesanbeterin
+1B - Leuchtkäfer
+1C - Kakerlake
+1D - Sägezahn-Käfer
+1E - Borkenkäfer
+1F - Riesen-Käfer
+
+20 - Schnecke
+21 - Maulwurfsgrille
+22 - Wasserläufer
+23 - Beutelwurm
+24 - Kugelassel
+25 - Spinne
+26 - Ameise
+27 - Mücke
+28 - Geist
+
+
+Fish Encounter Modifier [Ralf]
+04EDFBAC 394000xx
+
+xx = Fish ID
+
+
+Fish IDs
+
+00 - Karausche
+01 - Bachforelle
+02 - Karpfen
+03 - Koi-Karpfen
+04 - Katzenwels
+05 - Kaulbarsch
+06 - Barsch
+07 - Flussbarsch
+08 - Sonnenbarsch
+09 - Riesenwels
+0A - Schlangenkopf
+0B - Barbe
+0C - Hasel
+0D - Döbel
+0E - Bitterling
+0F - Bachschmerle
+
+10 - Stint
+11 - Ayu-Fisch
+12 - Masulachs
+13 - Saibling
+14 - Stahlkopfforelle
+15 - Huchen
+16 - Lachs
+17 - Goldfisch
+18 - Piranha
+19 - Arowana
+1A - Aal
+1B - Flussgrundel
+1C - Skalar
+1D - Guppy
+1E - Teleskopauge
+1F - Quastenflosser
+
+20 - Languste
+21 - Frosch
+22 - Killifisch
+23 - Qualle
+24 - Seebarsch
+25 - Kaiserschnapper
+26 - Zebrabuntbarsch
+27 - Arapaiama
+28 - Keiner
+29 - Dose
+2A - Stiefel
+2B - Reifen
+2C - Lachs
