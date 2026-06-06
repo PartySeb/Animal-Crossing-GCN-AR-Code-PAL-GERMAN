@@ -1,0 +1,1091 @@
+
+(m) [Ralf]
+4XWZ-E4TW-HM4WD
+E0GD-38RQ-7HNGZ
+XYXH-FG47-JR8E8
+JY6M-ZZ19-KUPXH
+2VTV-XRVX-TBY81
+9EE3-GP04-RH8R5
+RNAT-416P-7Y2AW
+
+Enable Debug Mode [Ralf]
+ZE9P-GNTC-W4HAF
+MQYV-6E19-2ZQEE
+QJ3A-0Y2G-D3BZZ
+2WGY-WXT5-BV1TX
+
+Debug stuff can be controlled with a second controller plugged into port 2.
+
+Debug Mode On/Off (Press R + DPad Up/Down) [Ralf]
+A3NU-JC0P-HZNJ4
+WR69-FW8A-DJYT4
+0VUY-92VG-YZXMH
+YCK6-TY6F-P6EC0
+HQHX-WC15-BUJ65
+
+Enable Forest Map Select (Press RESET) [Ralf]
+W0NA-PU4C-8R1JW
+EQC1-UQQR-7J0BP
+VWC6-QB7P-90EHT
+FRZE-JH35-WVH2F
+4QTC-02C5-R1DE3
+0HMV-FRQQ-6XPKX
+
+Press the RESET button once at title screen or twice in-game to activate the
+Forest Map Select screen.
+
+Enable Debug Player Select (Press RESET) [Ralf]
+FURC-HEBC-UYD79
+1786-RT5M-T62NG
+VWC6-QB7P-90EHT
+FRZE-JH35-WVH2F
+4QTC-02C5-R1DE3
+0HMV-FRQQ-6XPKX
+
+Enable Debug FlashROM Screen (Press RESET) [Ralf]
+GTRA-XWKV-MKZVA
+V9Z6-UP8C-NHXUH
+VWC6-QB7P-90EHT
+FRZE-JH35-WVH2F
+4QTC-02C5-R1DE3
+0HMV-FRQQ-6XPKX
+
+Replace Train Monkey With Blazel (Beta Villager) [Ralf]
+UZP3-Y8GE-69NR4
+3HGN-94P0-JXZ9W
+BQN2-J6ZX-AV2UQ
+
+16:9 Aspect Ratio (Widescreen) [Ralf]
+Y088-BXHN-CRMWG
+6Y8Z-8RX9-GF2FB
+YJGY-0KZP-RRGW0
+TPR1-4D69-MNW2V
+C6QH-V73N-5VAQX
+C4Z7-98MH-ETDZ9
+XB5U-CETB-HVVZY
+E9FZ-A3QA-YCERP
+
+Make Game Save Copyable [Ralf]
+YBMG-2PP9-021VZ
+X2J8-W9HN-3HEJE
+RGY0-RNQC-40Y8X
+NH26-2519-VTJPM
+6M8C-N29E-1Z7JW
+XU5Y-MH41-JCGCQ
+3UQ5-UQN8-UUCV9
+
+Save your game with activated code. Now you can copy your game save to another
+memory card (via GameCube system menu).
+
+Max Friendship [Ralf]
+0BB1-VZ9E-6ZT2V
+TTCT-AHRA-4XF1B
+5BV0-TGKK-KTB0C
+
+No Friendship [Ralf]
+PB74-NU7N-4F2QH
+TTCT-AHRA-4XF1B
+MX17-RV7W-TY6JG
+
+Never Get Resetti [Ralf]
+YT5X-MHM1-12WV2
+T1WC-UE8X-8ZQTK
+
+Never Have Cockroaches [Ralf]
+C42D-AW9X-VHNT9
+APQ6-4N6H-1ZZR9
+RPY2-F5P3-9FGXV
+
+Always Have Cockroaches [Ralf]
+5TTP-V1MX-B5RKV
+APQ6-4N6H-1ZZR9
+PW0F-62HY-141X9
+
+Weed-B-Gone (Enter House) [Ralf]
+1Z9C-KCMC-YF908
+7R80-JKEN-ZW5JU
+
+All Items Purchasable (Catalog) [Ralf]
+PAAT-KV7T-AWFJV
+Z02Y-P11Y-4KC23
+8K37-PDGE-GP90E
+NG9Y-49CB-F8X6D
+28PG-VUFP-B15W8
+7XXP-27Y4-R397R
+
+Shop: 24h Open [Ralf]
+5P5D-HY67-AD348
+PDC4-MQ6C-56538
+QFAR-NM2K-PEJPR
+
+Go Anywhere [Ralf]
+60ZF-EZ2G-HGV3A
+H5KA-QE08-G59GW
+GEXU-DWPE-ZAYCX
+
+Go Anywhere On/Off (Press R + DPad Up/Down) [Ralf]
+N7U8-BP0W-7VRD7
+EZ4R-0T6X-F0226
+34V1-495B-AXWEV
+WDPV-EX3N-P31G3
+8AGP-WR4B-UFCVP
+H5KA-QE08-G59GW
+GEXU-DWPE-ZAYCX
+
+Walk & Run Faster [Ralf]
+J2BQ-ZWHB-7UFQU
+HMQV-JNC6-N4MRG
+62X3-V64V-AYH3F
+
+Flowers Can't Be Trampled [Ralf]
+Z2DV-9XAH-5C712
+D44H-5QT1-RBAVR
+
+Clock Always On (Field) [Ralf]
+67MA-KBZT-VT3K1
+KQ3T-DFDY-XFXZK
+
+Clock Always Off (Field) [Ralf]
+9D5H-72CR-UYU92
+ZHD4-3K2P-CEVGR
+
+Draw Process Bar [Ralf]
+TND2-332C-N1008
+2WRH-4F2P-46VWT
+0WGN-8G7N-BHZ7V
+JJGR-54PZ-1Z8P0
+
+Enable 60Hz Mode (Incl. NES Games) [Ralf]
+HMAY-MJDC-V21RD
+5TVM-W4M4-YJWKM
+8XFK-51JD-ADN4E
+CTB5-2QWC-U1W1Q
+E71D-N61Q-H6TQK
+EXBW-X68Q-00H4K
+Y6F1-CGTN-R3UPJ
+1XN1-BH6X-A99JV
+E9FZ-A3QA-YCERP
+
+Enable 60Hz Mode (Except NES Games) [Ralf]
+5DB1-PHY1-X4PV2
+8XFK-51JD-ADN4E
+CTB5-2QWC-U1W1Q
+1Q23-CFRK-Z9RWN
+AN93-GY81-JZU87
+EXBW-X68Q-00H4K
+Y6F1-CGTN-R3UPJ
+1XN1-BH6X-A99JV
+E9FZ-A3QA-YCERP
+
+Enable NES Emulator Filer Mode [Ralf]
+NPX3-J5JN-8TVFP
+3UX7-TUXD-UGZCM
+KEK6-CTUM-GNBGK
+V9Y6-J9EH-Y9FNY
+9WVM-R0Z4-EE4N4
+0CU5-CVV2-HV3D7
+
+Filer Mode Control Keys:
+
+R               = Filer Mode On/Off
+B               = Auto Demo Mode
+DPad Up/Down    = Previous/Next Game
+DPad Left/Right = Jump to Clu Clu Land
+
+Camera Modifier (Press L + DPad Up/Down/Left) [Ralf]
+P5A2-WHC2-EW15B
+5PD4-6CUK-VPWCN
+JRHJ-8V1M-B2XUD
+FJ7B-94RB-RMUM8
+DCE1-B0E4-VETJF
+9EJM-VV9V-NFDQ1
+KPWY-BRFT-HQ2B2
+R9PX-9XGX-1QPD2
+32BF-DMH5-ZHDYD
+2R4J-BCBD-2AEA1
+E9FZ-A3QA-YCERP
+EGNF-XCXH-AGYJV
+PW80-A0H8-C713Y
+0X4D-AA0Y-7F592
+CWDH-A6GZ-FDEHF
+
+L + DPad Up   = Zoom In
+L + DPad Down = Zoom Out
+L + DPad Left = Normal/Reset & Activate Code
+
+Player Size Modifier (Press R + DPad Up/Down/Left) [Ralf]
+BBWB-92DM-P96UV
+CTB5-2QWC-U1W1Q
+Q8WN-JW2T-FW525
+B07N-U3WY-AUABZ
+BKDT-MUNQ-T3KHR
+F9DA-6T38-GVRN4
+J5RH-AC5R-4TKGJ
+53AB-C1J5-ACHT7
+ZNHB-RBTC-TY084
+E9FZ-A3QA-YCERP
+62EU-Y89P-79UGX
+AVP5-NDP7-KMVC9
+7PP7-6E7F-E27CP
+WR69-FW8A-DJYT4
+EFZF-BHDV-TN3WW
+YCK6-TY6F-P6EC0
+07YX-WZ7T-33Y9P
+
+R + DPad Up   = Grow
+R + DPad Down = Shrink
+R + DPad Left = Normal/Reset & Activate Code
+
+
+Player 1 Codes
+
+Infinite Bells [Ralf]
+F1HM-XQJZ-VWMBF
+HWAT-AQCM-R9YYR
+C0C6-DRUX-KC9RT
+
+Full Bank Account [Ralf]
+ZG6Q-FH0M-XF8K5
+CP19-83F8-DYWAY
+
+100% Full Nooks Catalog [Ralf]
+URTN-X3D3-GWE1F
+TA26-ZF88-V4UKV
+HCJR-QMTR-5N9V9
+
+Quick Nook Upgrade [Ralf]
+NBTV-AUPV-QCMG3
+ZJT4-6MV3-NU1YH
+
+Have Rare NES Games In Inventory [Ralf]
+XYPY-Y1K5-Z9Q3F
+2467-1FN2-7RG8P
+WZJW-68K5-QNP98
+Z41G-3CC9-PR0FN
+
+
+Player 2 Codes
+
+Infinite Bells [Ralf]
+G5D7-RV15-UA748
+9ABH-U7UY-BUE73
+A05J-ZPDC-7V12V
+
+Full Bank Account [Ralf]
+HZWF-RAU6-HH2KU
+6ZKB-XMGZ-NERQT
+
+100% Full Nooks Catalog [Ralf]
+H676-N059-6ZFYB
+CBEF-GGWB-DYUB2
+BPW9-HQ0J-EDPBZ
+
+Quick Nook Upgrade [Ralf]
+EK1J-JJD5-FUTFH
+B7YG-F5J1-C40PY
+
+Have Rare NES Games In Inventory [Ralf]
+NR4W-B5YM-CPN1D
+YE1W-5CJ7-D4ZWY
+UVQ4-Y9QV-JFNU9
+7H7Q-CCME-YYMX1
+
+
+Player 3 Codes
+
+Infinite Bells [Ralf]
+R14U-6GBF-FAQFD
+8N93-7E68-Y5HVP
+N6PC-RKNN-NVQXJ
+
+Full Bank Account [Ralf]
+W4EG-Y5K7-CGRDF
+NR32-11GY-HCJ57
+
+100% Full Nooks Catalog [Ralf]
+EXCM-N7GZ-U9KQD
+D7G5-6XQU-MGJM4
+18GU-X4K5-TGUG9
+
+Quick Nook Upgrade [Ralf]
+5UQH-UQA4-4K1PT
+9HZY-C6A6-BVB3D
+
+Have Rare NES Games In Inventory [Ralf]
+3ZDD-EUXP-26H0E
+9N7T-4GNT-11NR5
+4QDN-KTWB-0M4T4
+X12J-4TT2-ZDWZJ
+
+
+Player 4 Codes
+
+Infinite Bells [Ralf]
+U54Y-0P8E-3AVXG
+EH89-K4KB-90RHY
+4E9Q-RZWQ-VZVZC
+
+Full Bank Account [Ralf]
+E063-XF6B-UWE3U
+9QE3-6R5K-XV5VH
+
+100% Full Nooks Catalog [Ralf]
+1F8H-AAQC-7TUB3
+NWH7-8V62-YDZRG
+RRF0-314U-CJTMC
+
+Quick Nook Upgrade [Ralf]
+YG60-YB5Q-7TCWP
+D746-ZEZ1-45P8C
+
+Have Rare NES Games In Inventory [Ralf]
+YEJR-345M-XZZMJ
+KVCE-AED1-7954G
+9VYX-Z1M1-J70QF
+4V2A-5GHU-Y34YT
+
+
+Theme Song Codes
+
+Alternative Song 1 [Ralf]
+1FAR-XUX9-XW89V
+W8GW-8GN4-VXWUJ
+GXQA-96PN-MH6YT
+
+Alternative Song 2 [Ralf]
+3432-J6V3-DTHD7
+DAR9-3ANB-RJC97
+AVBP-ZHXU-RDG03
+
+Alternative Song 3 [Ralf]
+8TW2-C91B-MRCFR
+FWZY-ETZV-58WQZ
+AR7Z-WMCR-K2A9E
+
+Alternative Song 4 [Ralf]
+4V8U-P6XD-ZH4W0
+EA1U-7PGM-C6UK9
+XBJ8-1T4R-Z7RPH
+
+Cartoon Song 1 [Ralf]
+HKY4-GJEU-DN0GR
+R0W0-5E9M-8R2T8
+CTWU-ACEY-1JKE1
+
+Cartoon Song 2 [Ralf]
+RT8E-JU44-XU2T1
+9Q05-JHPA-YJ0M8
+0HPR-A7ZE-63RQC
+
+Cartoon Song 3 [Ralf]
+10P5-X277-4T1H0
+4UUR-019R-HVBU0
+8CGR-J60G-0GH3C
+
+Cute Song [Ralf]
+AQMQ-CPAF-DJ59F
+BETX-3C8G-9KA21
+28ND-1MVH-CVHWC
+
+Default Song [Ralf]
+1DG4-K6H0-CCYG5
+BF68-EFZ1-QQ661
+H2ZF-2F9X-49E7R
+
+Holiday Song 1 [Ralf]
+86T1-V6JW-GJVY2
+7GVP-FEV5-NK7B0
+07UN-Y047-WYQZU
+
+Holiday Song 2 [Ralf]
+DYA7-4UVB-FRXMZ
+09XA-0RH9-ZQUUZ
+34MK-XYVP-2X91E
+
+Holiday Song 3 [Ralf]
+46J3-V4BB-J5B1J
+QXP1-A9PM-1H53V
+574F-W4D3-TZFNJ
+
+Movie Song 1 [Ralf]
+69AE-TR1D-XXR88
+625D-DR2Z-ME4ZJ
+CMA4-HJ9A-WK5WV
+
+Movie Song 2 [Ralf]
+3JNH-Z82K-YGUY1
+Y9W8-4BBJ-2XHXJ
+FAMP-WFEU-K6K1G
+
+Movie Song 3 [Ralf]
+QZ4F-0HGY-BEAXU
+BDD8-F3TG-CZ7G2
+6XW8-F8Z3-D5XPA
+
+Patriotic Song [Ralf]
+UG3D-RKGM-F98T1
+JQ51-H1FQ-RGFQU
+TB9M-1NJP-FJQ3N
+
+
+Player 1 Item Slot Modifiers [Ralf]
+030FA268 0000xxxx - Slot 1
+030FA26A 0000xxxx - Slot 2
+030FA26C 0000xxxx - Slot 3
+030FA26E 0000xxxx - Slot 4
+030FA270 0000xxxx - Slot 5
+030FA272 0000xxxx - Slot 6
+030FA274 0000xxxx - Slot 7
+030FA276 0000xxxx - Slot 8
+030FA278 0000xxxx - Slot 9
+030FA27A 0000xxxx - Slot 10
+030FA27C 0000xxxx - Slot 11
+030FA27E 0000xxxx - Slot 12
+030FA280 0000xxxx - Slot 13
+030FA282 0000xxxx - Slot 14
+030FA284 0000xxxx - Slot 15
+
+Player 2 Item Slot Modifiers [Ralf]
+030FC6A8 0000xxxx - Slot 1
+030FC6AA 0000xxxx - Slot 2
+030FC6AC 0000xxxx - Slot 3
+030FC6AE 0000xxxx - Slot 4
+030FC6B0 0000xxxx - Slot 5
+030FC6B2 0000xxxx - Slot 6
+030FC6B4 0000xxxx - Slot 7
+030FC6B6 0000xxxx - Slot 8
+030FC6B8 0000xxxx - Slot 9
+030FC6BA 0000xxxx - Slot 10
+030FC6BC 0000xxxx - Slot 11
+030FC6BE 0000xxxx - Slot 12
+030FC6C0 0000xxxx - Slot 13
+030FC6C2 0000xxxx - Slot 14
+030FC6C4 0000xxxx - Slot 15
+
+Player 3 Item Slot Modifiers [Ralf]
+030FEAE8 0000xxxx - Slot 1
+030FEAEA 0000xxxx - Slot 2
+030FEAEC 0000xxxx - Slot 3
+030FEAEE 0000xxxx - Slot 4
+030FEAF0 0000xxxx - Slot 5
+030FEAF2 0000xxxx - Slot 6
+030FEAF4 0000xxxx - Slot 7
+030FEAF6 0000xxxx - Slot 8
+030FEAF8 0000xxxx - Slot 9
+030FEAFA 0000xxxx - Slot 10
+030FEAFC 0000xxxx - Slot 11
+030FEAFE 0000xxxx - Slot 12
+030FEB00 0000xxxx - Slot 13
+030FEB02 0000xxxx - Slot 14
+030FEB04 0000xxxx - Slot 15
+
+Player 4 Item Slot Modifiers [Ralf]
+03100F28 0000xxxx - Slot 1
+03100F2A 0000xxxx - Slot 2
+03100F2C 0000xxxx - Slot 3
+03100F2E 0000xxxx - Slot 4
+03100F30 0000xxxx - Slot 5
+03100F32 0000xxxx - Slot 6
+03100F34 0000xxxx - Slot 7
+03100F36 0000xxxx - Slot 8
+03100F38 0000xxxx - Slot 9
+03100F3A 0000xxxx - Slot 10
+03100F3C 0000xxxx - Slot 11
+03100F3E 0000xxxx - Slot 12
+03100F40 0000xxxx - Slot 13
+03100F42 0000xxxx - Slot 14
+03100F44 0000xxxx - Slot 15
+
+Dump Slot Modifiers [Ralf]
+0310DA94 0000xxxx - Slot 1
+0310DA96 0000xxxx - Slot 2
+0310DA98 0000xxxx - Slot 3
+0310DA9A 0000xxxx - Slot 4
+0310DAB4 0000xxxx - Slot 5
+0310DAB6 0000xxxx - Slot 6
+0310DAB8 0000xxxx - Slot 7
+0310DABA 0000xxxx - Slot 8
+0310DAD4 0000xxxx - Slot 9
+0310DAD6 0000xxxx - Slot 10
+0310DAD8 0000xxxx - Slot 11
+0310DADA 0000xxxx - Slot 12
+0310DAF4 0000xxxx - Slot 13
+0310DAF6 0000xxxx - Slot 14
+0310DAF8 0000xxxx - Slot 15
+0310DAFA 0000xxxx - Slot 16
+
+
+No Background Music [Ralf]
+ZY02-284C-EQCM3
+RNT0-9QZF-11RA2
+8HN1-1DNP-XZ8GH
+B0GJ-3ABN-7NP1R
+
+Background Music Volume Modifier [Ralf]
+0C0144D8 FFE00890
+040144D8 C3E2807C
+0422D3FC xxxxxxxx
+
+xxxxxxxx = Volume (IEEE-754 SP Floating-Point Number)
+
+00000000 -   0%
+3F000000 -  50%
+3F800000 - 100%
+
+
+Player 1 Tan Modifier [Ralf]
+010FC5C8 000000xx
+
+Player 2 Tan Modifier [Ralf]
+010FEA08 000000xx
+
+Player 3 Tan Modifier [Ralf]
+01100E48 000000xx
+
+Player 4 Tan Modifier [Ralf]
+01103288 000000xx
+
+xx = Tan 00 .. 08 (Max)
+
+
+Player 1 Max Tan [Ralf]
+51HJ-03YT-B6D88
+581E-CRAA-AWBTH
+
+
+Player 1 Gender & Face Modifier [Ralf]
+030FA214 0000xxyy
+
+Player 2 Gender & Face Modifier [Ralf]
+030FC654 0000xxyy
+
+Player 3 Gender & Face Modifier [Ralf]
+030FEA94 0000xxyy
+
+Player 4 Gender & Face Modifier [Ralf]
+03100ED4 0000xxyy
+
+xx = Gender (00 = Boy, 01 = Girl)
+yy = Face   (00 .. FF)
+
+
+Season Modifier (GFX Only) [Ralf]
+8C006A90 88FF0330
+04003960 386000xx
+04003964 54661838
+04003968 48D327E0
+00000000 40000000
+04D36144 4B2CD81C
+
+xx = Season
+
+
+Seasons
+
+00 - Winter (01. Jan - 03. Feb)
+01 - Winter (04. Feb - 17. Feb)
+02 - Winter (18. Feb - 24. Feb)
+03 - Spring (25. Feb - 31. Mar)
+04 - Spring (01. Apr - 08. Apr)
+05 - Spring (09. Apr - 25. May)
+06 - Summer (26. May - 22. Jul)
+07 - Summer (23. Jul - 31. Aug)
+08 - Summer (01. Sep - 15. Sep)
+09 - Autumn (16. Sep - 30. Sep)
+0A - Autumn (01. Oct - 15. Oct)
+0B - Autumn (16. Oct - 29. Oct)
+0C - Autumn (30. Oct - 12. Nov)
+0D - Autumn (13. Nov - 28. Nov)
+0E - Autumn (29. Nov - 09. Dec)
+0F - Winter (10. Dec - 17. Dec)
+10 - Winter (18. Dec - 25. Dec)
+11 - Winter (26. Dec - 31. Dec)
+
+
+Endless Summer [Ralf]
+VMQU-50UP-WX31W
+CTB5-2QWC-U1W1Q
+7AD4-RVGG-BM246
+Q8DZ-HHQC-NN5ZC
+C18V-15VH-5Y9N5
+E9FZ-A3QA-YCERP
+2184-VVHX-3J6CJ
+
+
+Villager Model Replacer [Ralf]
+8C006A90 88FF0330
+040051A0 3C600001
+040051A4 3863xxxx
+040051A8 7C032040
+040051AC 7C832378
+040051B0 4082000C
+040051B4 3C600001
+040051B8 3863yyyy
+040051BC 4E800020
+00000000 40000000
+04E7607C 4B18F125
+04E815AC 4B183BF5
+
+Replaces villager model xxxx with model yyyy.
+
+
+Villager Model Modifier [Ralf]
+8C006A90 88FF0330
+040051A0 3C600001
+040051A4 3863xxxx
+040051A8 4E800020
+00000000 40000000
+04E7607C 4B18F125
+04E815AC 4B183BF5
+
+xxxx = Villager Model ID
+
+
+Regular Villager Model IDs
+
+E000 - Jens (Katze)
+E001 - Bianca (Katze)
+E002 - Miezi (Katze)
+E003 - Kiki (Katze)
+E004 - Tanja (Katze)
+E005 - Kabuki (Katze)
+E006 - Zita (Katze)
+E007 - Monique (Katze)
+E008 - Stefan (Katze)
+E009 - Franka (Katze)
+E00A - Katja (Katze)
+E00B - Timo (Katze)
+E00C - Sophie (Katze)
+E00D - Hortense (Ameisenbär)
+E00E - Zoe (Ameisenbär)
+E00F - Mathilda (Ameisenbär)
+
+E010 - Theo (Ameisenbär)
+E011 - Hilde (Ameisenbär)
+E012 - Torsten (Bär)
+E013 - Chang (Bär)
+E014 - Nicki (Bär)
+E015 - Nathan (Bär)
+E016 - Ernst (Bär)
+E017 - Mandy (Bär)
+E018 - Ursula (Bär)
+E019 - Gerald (Bär)
+E01A - Pia (Bär)
+E01B - Jan (Vogel)
+E01C - Twiggy (Vogel)
+E01D - Armin (Vogel)
+E01E - Iris (Vogel)
+E01F - Ansgar (Vogel)
+
+E020 - Otto (Vogel)
+E021 - Jule (Vogel)
+E022 - Anna (Vogel)
+E023 - Helge (Vogel)
+E024 - Meik (Vogel)
+E025 - Paco (Kuh)
+E026 - Carlos (Kuh)
+E027 - Konrad (Huhn)
+E028 - Margot (Huhn)
+E029 - Hektor (Huhn)
+E02A - Waldemar (Huhn)
+E02B - Gisela (Huhn)
+E02C - Harald (Huhn)
+E02D - Loretta (Huhn)
+E02E - Helene (Huhn)
+E02F - Vladimir (Bär)
+
+E030 - Michael (Bär)
+E031 - Bärbel (Bär)
+E032 - Bernd (Bär)
+E033 - Mona (Bär)
+E034 - Bertram (Bär)
+E035 - Linda (Bär)
+E036 - Toni (Bär)
+E037 - Birte (Bär)
+E038 - Patricia (Kuh)
+E039 - Petunia (Kuh)
+E03A - Karla (Kuh)
+E03B - Heidi (Kuh)
+E03C - Markus (Alligator)
+E03D - Tilmann (Alligator)
+E03E - Ruth (Alligator)
+E03F - Keks (Hund)
+
+E040 - Bienchen (Hund)
+E041 - Doris (Hund)
+E042 - Viktor (Hund)
+E043 - Isolde (Hund)
+E044 - Agnes (Hund)
+E045 - Hasso (Hund)
+E046 - Bill (Ente)
+E047 - Erika (Ente)
+E048 - Kalle (Ente)
+E049 - Helmut (Ente)
+E04A - Erwin (Ente)
+E04B - Quacks (Ente)
+E04C - Paolo (Elefant)
+E04D - Bastian (Elefant)
+E04E - Axel (Elefant)
+E04F - Emma (Frosch)
+
+E050 - Paul (Frosch)
+E051 - Warzi (Frosch)
+E052 - Jacques (Frosch)
+E053 - Nele (Frosch)
+E054 - Liliane (Frosch)
+E055 - Jörg (Frosch)
+E056 - Knuth (Frosch)
+E057 - Tarno (Frosch)
+E058 - Robbi (Frosch)
+E059 - Prinz (Frosch)
+E05A - Jeanette (Frosch)
+E05B - Hennes (Ziege)
+E05C - Anette (Ziege)
+E05D - Georg (Ziege)
+E05E - Siggi (Ziege)
+E05F - Sven (Ziege)
+
+E060 - Wilma (Ziege)
+E061 - Jane (Gorilla)
+E062 - Alfredo (Gorilla)
+E063 - Ludwig (Gorilla)
+E064 - Manfred (Gorilla)
+E065 - Winfried (Flußpferd)
+E066 - Christin (Flußpferd)
+E067 - Berta (Flußpferd)
+E068 - Emil (Pferd)
+E069 - Walli (Pferd)
+E06A - Zara (Pferd)
+E06B - Hermann (Pferd)
+E06C - Birgit (Pferd)
+E06D - Claire (Pferd)
+E06E - Rudi (Pferd)
+E06F - Carola (Känguruh)
+
+E070 - Marga (Känguruh)
+E071 - Marie (Känguruh)
+E072 - Kerstin (Känguruh)
+E073 - Elke (Känguruh)
+E074 - Astrid (Känguruh)
+E075 - Silke (Koala)
+E076 - Heribert (Koala)
+E077 - Oskar (Koala)
+E078 - Ute (Koala)
+E079 - Heike (Koala)
+E07A - Rex (Löwe)
+E07B - Daniel (Löwe)
+E07C - Leopold (Löwe)
+E07D - Samson (Maus)
+E07E - Susi (Maus)
+E07F - Dora (Maus)
+
+E080 - Pablo (Maus)
+E081 - Renate (Maus)
+E082 - Ricky (Maus)
+E083 - Eva (Maus)
+E084 - Rafael (Maus)
+E085 - Carmen (Maus)
+E086 - Ottfried (Krake)
+E087 - Sandra (Strauß)
+E088 - Lutz (Strauß)
+E089 - Verona (Strauß)
+E08A - Isabella (Strauß)
+E08B - Apollo (Raubvogel)
+E08C - Balduin (Raubvogel)
+E08D - Enrique (Raubvogel)
+E08E - Adelheid (Raubvogel)
+E08F - Adrian (Raubvogel)
+
+E090 - Roland (Pinguin)
+E091 - Sonja (Pinguin)
+E082 - Hauke (Pinguin)
+E093 - Cube (Pinguin)
+E094 - Puck (Pinguin)
+E095 - Judith (Pinguin)
+E096 - Frieda (Pinguin)
+E097 - Oink (Schwein)
+E098 - Luzie (Schwein)
+E099 - Schwarte (Schwein)
+E09A - Hugo (Schwein)
+E09B - Ede (Schwein)
+E09C - Sabrina (Schwein)
+E09D - Silvio (Schwein)
+E09E - Larissa (Schwein)
+E09F - Rolo (Schwein)
+
+E0A0 - Bolle (Schwein)
+E0A1 - Mimmi (Kaninchen)
+E0A2 - Gustl (Kaninchen)
+E0A3 - Gaston (Kaninchen)
+E0A4 - Koko (Kaninchen)
+E0A5 - Gabi (Kaninchen)
+E0A6 - Doro (Kaninchen)
+E0A7 - Aki (Kaninchen)
+E0A8 - Philip (Kaninchen)
+E0A9 - Claude (Kaninchen)
+E0AA - Frank (Nashorn)
+E0AB - Atze (Nashorn)
+E0AC - Roswitha (Nashorn)
+E0AD - Dolly (Schaf)
+E0AE - Felix (Eichhörnchen)
+E0AF - Hanne (Eichhörnchen)
+
+E0B0 - Pia (Eichhörnchen)
+E0B1 - Noisette (Eichhörnchen)
+E0B2 - Ronny (Eichhörnchen)
+E0B3 - Rudolf (Eichhörnchen)
+E0B4 - Marika (Eichhörnchen)
+E0B5 - Knuspi (Eichhörnchen)
+E0B6 - Tristan (Tiger)
+E0B7 - Boris (Tiger)
+E0B8 - Tamara (Tiger)
+E0B9 - Lupo (Wolf)
+E0BA - Freya (Wolf)
+E0BB - Sascha (Wolf)
+E0BC - Volker (Ente)
+E0BD - Marina (Ente)
+E0BE - Weber (Wolf)
+E0BF - Rüdiger (Nashorn)
+
+E0C0 - Rolf (Kuh)
+E0C1 - Marius (Kuh)
+E0C2 - Norbert (Flußpferd)
+E0C3 - Olga (Elefant)
+E0C4 - Strolch (Hund)
+E0C5 - Bea (Hund)
+E0C6 - Biggi (Flußpferd)
+E0C7 - Richi (Flußpferd)
+E0C8 - Lulu (Flußpferd)
+E0C9 - Klara (Eichhörnchen)
+E0CA - Hörnchen (Eichhörnchen)
+E0CB - Elfi (Elefant)
+E0CC - Frauke (Elefant)
+E0CD - Ali (Alligator)
+E0CE - Lotta (Kaninchen)
+E0CF - Edith (Schaf)
+
+E0D0 - Babsi (Schaf)
+E0D1 - Grimm (Wolf)
+E0D2 - Olivia (Ente)
+E0D3 - Daune (Ente)
+E0D4 - Stella (Schaf)
+E0D5 - Lana (Schaf)
+E0D6 - Wulle (Schaf)
+E0D7 - Rosi (Hund)
+E0D8 - Sissi (Ente - Insulaner)
+E0D9 - Nico (Kaninchen - Insulaner)
+E0DA - Ricarda (Eichhörnchen - Insulaner)
+E0DB - Caspar (Frosch - Insulaner)
+E0DC - Dieter (Löwe - Insulaner)
+E0DD - Max (Ente - Insulaner)
+E0DE - Elena (Elefant - Insulaner)
+E0DF - Flo (Vogel - Insulaner)
+
+E0E0 - Fritz (Wolf - Insulaner)
+E0E1 - Amalie (Maus - Insulaner)
+E0E2 - Annerose (Pferd - Insulaner)
+E0E3 - Mareile (Huhn - Insulaner)
+E0E4 - Finchen (Koala - Insulaner)
+E0E5 - Jürgen (Gorilla - Insulaner)
+E0E6 - Gisbert (Tiger - Insulaner)
+E0E7 - Regina (Bär - Insulaner)
+E0E8 - Claudia (Bär)
+E0E9 - Jonas (Schwein - Insulaner)
+E0EA - Kleo (Katze - Insulaner)
+E0EB - Julian (Katze)
+
+
+Special Villager Model IDs
+
+D000 - Winci (Walross)
+D001 - Reiner (Fuchs)
+D002 - Grazia (Giraffe)
+D003 - Pelly (Pelikan)
+D004 - Olli (Katze)
+D005 - Olli (Katze)
+D006 - Aziza (Kamel)
+D007 - Siegrid (Schwein - Rucksack)
+D008 - Tom Nook (Waschbär - Blaue Schürze)
+D009 - Tom Nook (Waschbär - Gestreiftes Hemd)
+D00A - Tom Nook (Waschbär - Weiße Schürze)
+D00B - Tom Nook (Waschbär - Blauer Anzug)
+D00C - Smeralda (Katze)
+D00D - Harry (Hund)
+D00E - Flip (Affe)
+D00F - Chris (Rentier)
+
+D010 - Wuff (Hund)
+D011 - Peter (Pelikan)
+D012 - Peggy (Pelikan)
+D013 - Reiner (Fuchs)
+D014 - Tom Nook (Waschbär - Blaue Schürze)
+D015 - Tom Nook (Waschbär - Gestreiftes Hemd)
+D016 - Tom Nook (Waschbär - Weiße Schürze)
+D017 - Tom Nook (Waschbär - Blauer Anzug)
+D018 - K.K. Slider (Hund)
+D019 - Tom Nook (Waschbär - Blaue Schürze)
+D01A - Tom Nook (Waschbär - Gestreiftes Hemd)
+D01B - Tom Nook (Waschbär - Weiße Schürze)
+D01C - Tom Nook (Waschbär - Blauer Anzug)
+D01D - Bartholo (Biber)
+D01E - Tom Nook (Waschbär - Gestreifte Schürze)
+D01F - K.K. Slider (Hund)
+
+D020 - Jakob (Kürbiskopf)
+D021 - Jakob (Kürbiskopf)
+D022 - Jakob (Kürbiskopf)
+D023 - Jakob (Kürbiskopf)
+D024 - Jakob (Kürbiskopf)
+D025 - Jakob (Kürbiskopf)
+D026 - Nepp (Waschbär)
+D027 - K.K. Slider (Hund)
+D028 - K.K. Slider (Hund)
+D029 - K.K. Slider (Hund)
+D02A - K.K. Slider (Hund)
+D02B - K.K. Slider (Hund)
+D02C - Reiner (Fuchs - Gestreifte Schürze)
+D02D - K.K. Slider (Hund)
+D02E - K.K. Slider (Hund)
+D02F - K.K. Slider (Hund)
+
+D030 - K.K. Slider (Hund)
+D031 - K.K. Slider (Hund)
+D032 - K.K. Slider (Hund)
+D033 - K.K. Slider (Hund)
+D034 - K.K. Slider (Hund)
+D035 - K.K. Slider (Hund)
+D036 - K.K. Slider (Hund)
+D037 - Schlepp (Waschbär)
+D038 - Siegrid (Schwein)
+D039 - Reiner (Fuchs)
+D03A - Tom Nook (Waschbär - Gestreifte Schürze)
+D03B - Tom Nook (Waschbär - Gestreifte Schürze)
+D03C - Tom Nook (Waschbär - Gestreifte Schürze)
+D03D - Smeralda (Katze)
+D03E - Mr. Resetti (Maulwurf)
+D03F - K.K. Slider (Hund)
+
+D040 - K.K. Slider (Hund)
+D041 - K.K. Slider (Hund)
+D042 - K.K. Slider (Hund)
+D043 - K.K. Slider (Hund)
+D044 - K.K. Slider (Hund)
+D045 - K.K. Slider (Hund)
+D046 - K.K. Slider (Hund)
+D047 - K.K. Slider (Hund)
+D048 - K.K. Slider (Hund)
+D049 - K.K. Slider (Hund)
+D04A - K.K. Slider (Hund)
+D04B - K.K. Slider (Hund)
+D04C - K.K. Slider (Hund)
+D04D - K.K. Slider (Hund)
+D04E - Harry (Hund - Trainingsanzug)
+D04F - K.K. Slider (Hund)
+
+D050 - K.K. Slider (Hund)
+D051 - K.K. Slider (Hund)
+D052 - K.K. Slider (Hund)
+D053 - K.K. Slider (Hund)
+D054 - K.K. Slider (Hund)
+D055 - K.K. Slider (Hund)
+D056 - K.K. Slider (Hund)
+D057 - K.K. Slider (Hund)
+D058 - K.K. Slider (Hund)
+D059 - K.K. Slider (Hund)
+D05A - K.K. Slider (Hund)
+D05B - K.K. Slider (Hund)
+D05C - K.K. Slider (Hund)
+D05D - K.K. Slider (Hund)
+D05E - K.K. Slider (Hund)
+D05F - K.K. Slider (Hund)
+
+D060 - K.K. Slider (Hund)
+D061 - K.K. Slider (Hund)
+D062 - K.K. Slider (Hund)
+D063 - K.K. Slider (Hund)
+D064 - Gulliver (Pelikan)
+D065 - Mr. Resetti (Maulwurf)
+D066 - K.K. Slider (Hund)
+D067 - Flip (Affe)
+D068 - Mr. Resetti (Maulwurf)
+D069 - Mr. Resetti (Maulwurf)
+D06A - K.K. Slider (Hund)
+D06B - Mr. Resetti (Maulwurf)
+D06C - Blazel (Eichhörnchen - Beta)
+D06D - Eugen (Eule)
+D06E - Törtel (Schildkröte)
+D06F - Buhu (Geist)
+
+D070 - Tina (Igel)
+D071 - Sina (Igel)
+D072 - Käpten (Schildkröte)
+D073 - K.K. Slider (Hund)
+D074 - Törtel (Schildkröte)
+D075 - Blanka (Katze)
+D076 - Blanka (Katze)
+D077 - K.K. Slider (Hund)
+D078 - Törtel (Schildkröte)
+D079 - Jakob (Kürbiskopf)
+D07A - Flip (Affe)
+D07B - Gulliver (Pelikan)
+D07C - Mr. Resetti (Maulwurf)
+D07D - Mr. Resetti (Maulwurf)
+D07E - Don Resetti (Maulwurf)
+D07F - Törtel (Schildkröte)
+
+D080 - Mr. Resetti (Maulwurf)
+D081 - Mr. Resetti (Maulwurf - Schwarzer Anzug)
+D082 - K.K. Slider (Hund)
+D083 - K.K. Slider (Hund)
+D084 - K.K. Slider (Hund)
+D085 - K.K. Slider (Hund)
+D086 - K.K. Slider (Hund)
+D087 - Törtel (Schildkröte)
+D088 - K.K. Slider (Hund)
+D089 - K.K. Slider (Hund)
+D08A - K.K. Slider (Hund)
+D08B - K.K. Slider (Hund)
+D08C - K.K. Slider (Hund)
+D08D - Gernod (Truthahn)
+D08E - Mamo (Brunnengeist - Unsichtbar)
+D08F - K.K. Slider (Hund)
+
+
+Replace All Villager Models With Don Resetti Model [Ralf]
+0PUQ-Y5AJ-EZ4FZ
+CTB5-2QWC-U1W1Q
+79R3-1X4P-8PGM1
+F6FY-5B2H-VDDMC
+J8C5-9UZE-QZ2QY
+E9FZ-A3QA-YCERP
+VYHA-DEJ5-XPP1G
+Q8J9-NXZB-PADJ0
+
+Replace Museum Owl Model With K.K. Slider Model [Ralf]
+432G-5WJN-KGBTT
+CTB5-2QWC-U1W1Q
+79R3-1X4P-8PGM1
+R3UM-AWBH-J9EMR
+NDWY-J6BV-G60NQ
+D59E-KT6R-PR4KE
+96T3-EDH7-Y0RBP
+3WAB-MJ53-8RH9Z
+7XP8-W3V2-60ZG4
+1T0D-1HU8-H1WUG
+E9FZ-A3QA-YCERP
+VYHA-DEJ5-XPP1G
+Q8J9-NXZB-PADJ0
+
+Random Villager Models [Ralf]
+E4KW-6EU2-JP3Z1
+CTB5-2QWC-U1W1Q
+FV2H-V5EK-KTV8F
+TF93-RT3J-T5K5H
+VT9D-ZT85-J3YM8
+HP6F-X8PJ-6N72M
+E9FZ-A3QA-YCERP
+VYHA-DEJ5-XPP1G
+Q8J9-NXZB-PADJ0
+
+
+
