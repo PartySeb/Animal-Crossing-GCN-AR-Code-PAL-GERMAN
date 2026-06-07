@@ -1,6 +1,6 @@
-==================================================
+==============================================
 Animal Crossing GCN – AR Codes – PAL – GERMAN
-==================================================
+==============================================
 
 IMPORTANT: These codes ONLY work with the following requirements:
   - Version:  PAL
