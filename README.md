@@ -15,6 +15,7 @@ The Dolphin emulator is recommended for testing the codes.
 Watching a short video showing how the codes work
 would also be helpful.
 It is possible that some individual codes may not work.
+
 --------------------------------------------------
 NOTE ON THE ORIGIN OF THE CODES
 --------------------------------------------------
