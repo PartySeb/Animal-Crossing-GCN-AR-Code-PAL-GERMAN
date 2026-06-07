@@ -1,32 +1,29 @@
 ==================================================
-Animal Crossing GCN – AR Codes – PAL – DEUTSCH
+Animal Crossing GCN – AR Codes – PAL – GERMAN
 ==================================================
- 
-WICHTIG: Diese Codes funktionieren NUR mit folgenden Voraussetzungen
+
+IMPORTANT: These codes ONLY work with the following requirements:
   - Version:  PAL
-  - Sprache:  Deutsch
-  Jede andere Version oder Sprache wird NICHT funktionieren.
+  - Language: German
+  Any other version or language will NOT work.
+--------------------------------------------------
+NOTE ON FUNCTIONALITY
+--------------------------------------------------
+These are AR codes (Action Replay codes)
+that can be used to enable hacks in Animal Crossing.
+The Dolphin emulator is recommended for testing the codes.
+Watching a short video showing how the codes work
+would also be helpful.
+It is possible that some individual codes may not work.
+--------------------------------------------------
+NOTE ON THE ORIGIN OF THE CODES
+--------------------------------------------------
+These codes were NOT written by me.
+They originate from the website:
 
---------------------------------------------------
-HINWEIS ZUR FUNKTION
---------------------------------------------------
-Es handelt sich um AR-Codes (Action-Replay-Codes)
-mit denen ihr Hacks in Animal Crossing nutzen könnt.
-Zum Testen der Codes wird der Emulator Dolphin empfohlen.
-Ein kurzes Video anzuschauen, das die Funktionsweise der Codes zeigt
-wäre ebenfalls nicht schlecht.
-
-Es ist möglich, dass einzelne Codes nicht funktionieren.
---------------------------------------------------
-HINWEIS ZUR HERKUNFT DER CODES
---------------------------------------------------
-Diese Codes wurden NICHT von mir geschrieben.
-Sie stammen von der Webseite:
- 
   https://www.gc-forever.com/forums/viewtopic.php?t=1952
- 
-Da die Webseite zurzeit nur noch per VPN erreichbar ist,
-habe ich die Codes hier gespeichert, damit sie zugänglich bleiben.
- 
-Codes geschrieben von: Ralf @ gc-forever
- 
+
+Since the website is currently only accessible via VPN,
+I have saved the codes here to keep them accessible.
+
+Codes written by: Ralf @ gc-forever
